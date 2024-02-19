@@ -1,8 +1,6 @@
 
 # Backend
 
-# Installation
-```
 ```
 # Clone the repository
 git clone <repository-url>
@@ -17,6 +15,7 @@ API Documentation
 
 # PORT: Port number for the server (Default: 8081)
 # JWT_SECRET: Secret key for JWT token generation
+# Go Cmd and start mongod
 
 
 # Frontend
