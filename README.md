@@ -3,14 +3,13 @@
 
 # Installation
 ```
-Copy code
+```
 # Clone the repository
 git clone <repository-url>
 ```
 # Install dependencies
 npm install
-Usage
-Explain how to use your project. Provide examples if necessary.
+```
 
 # Start the server
 npm start
